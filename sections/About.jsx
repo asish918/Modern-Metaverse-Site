@@ -25,11 +25,9 @@ const About = () => (
         <span className="font-extrabold text-white">
           Lorem
         </span> ipsum dolor sit amet consectetur adipisicing elit. Officia corporis qui cupiditate assumenda optio unde iste eius odio deleniti, fugiat aut aspernatur alias deserunt,
-        <span className="font-extrabold text-white">
-          beatae
+        <span className="font-extrabold text-white"> beatae
         </span> ut! Repellat molestias tempora tempore, illo eius
-        <span className="font-extrabold text-white">
-          assumenda
+        <span className="font-extrabold text-white"> assumenda 
         </span> accusantium dolorum! Veritatis nesciunt nam facilis quaerat?
       </motion.p>
 
@@ -40,7 +38,6 @@ const About = () => (
         className="w-[18px] h-[28px] object-contain mt-[28px]"
       />
     </motion.div>
-    About section
   </section>
 );
 
